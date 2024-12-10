@@ -1,0 +1,493 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [:data] /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/data/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:domain] /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:core] /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/core/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-navigation-animation:0.32.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5293b2b0d2c0927506eed2f13214cae7/transformed/jetified-accompanist-navigation-animation-0.32.0/AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.36.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9b53c8ce3b98d24d8fe69fe0bfc9ac12/transformed/jetified-accompanist-systemuicontroller-0.36.0/AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8dec13ff98c731566e8cbe9ea3e29e3c/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/f18d5e17ae19e0f749e164aac31b7562/transformed/jetified-appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/49aebacf971476c8c2f4af0aa878531c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/7a8636b10f35558299f88bc7a38dcfba/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/4e9fb9bcd3faf90d88acecc679ace978/transformed/jetified-hilt-navigation-compose-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/dfab7b2f549073f259ea68d3458f3ee7/transformed/jetified-hilt-navigation-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/ac8446d1263cceba1defbd79ada09e26/transformed/navigation-common-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5c15d525a9d5a9505706880857907ce4/transformed/navigation-runtime-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/999bb10b6c36731c2a2a70b8ca943f26/transformed/navigation-common-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/1cfb1aa93702937ccb2844d2f0925f0d/transformed/navigation-runtime-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b3a03d1ea1072cd115b57bba3bd89c5a/transformed/jetified-navigation-compose-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.52] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b1c3823b0d64a0610b2b4b60ff787f86/transformed/jetified-hilt-android-2.52/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/319eedd91d5e5ecde474d13e6e72f41b/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87c4d7108dc563bd2fd5c974cc2bdfe8/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.3] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/ba91b2b6fd7285ea34f2e4256ceafbcd/transformed/jetified-activity-1.9.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b8a48886122035000bfdefbf80edd36e/transformed/jetified-activity-ktx-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9773426b9fddcbfeb29b9686c5de71d2/transformed/jetified-material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c4b3fa5fadc2e6e553853bc2c6ec89e0/transformed/jetified-activity-compose-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3aacd0b853eb62ef70a8be2579b5908c/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c82800535f70834d59c5883bd549d282/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/6229dc502a86156d17908e8615390f93/transformed/jetified-animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/0cebe43881b9a7bd4b03eafa797d1ef6/transformed/jetified-material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/0243057d513fd2db7e3042a2c5544c62/transformed/jetified-animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5d962547afb529549000afda020e65b3/transformed/jetified-foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2277d9b15787958c65f890495a957829/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5fa70f5fad6d5f539b4ef5f9f304f66e/transformed/jetified-ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5aa9f14880d778c8d391afefc285db24/transformed/jetified-ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/070900b0aa9da18add2193b53046c972/transformed/jetified-ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9a68c8b4f878fcabc6b662166e4882c3/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5cfa5ece2c718963fefe47ae6d7ab916/transformed/jetified-ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/01462a447f57d73772c7e1c40183c59c/transformed/jetified-ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/58e25246ce32a020a06c0d8e1379d883/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/4cb8df8795d8b1a0795e3c8259925251/transformed/jetified-lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c50e8697b039ca90cf81ec0c44bc4d28/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/ea695f489a33b1a2c404e6ecda0ee59f/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/a1a12d04b3d5d0702cf230e0b94226d5/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3998c09462d9b89f3181a2460d5f77a3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2f0be9187367ec399535b1ba5d239e50/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/17d5fd3318004670b5c0261ebce3640b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3e45d1f5d0d2ee31b38de8ed646d7de9/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9290742298daa7857500d34eff6d1c06/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/fd54f0ff6ff3f87de923cedcb775a0a7/transformed/jetified-lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5728adc44204616586637ca57b9db4b1/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5389b6ea32036bb5187f3c061013a3a5/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3bfe2b4bef51a3ad74e49055e0374479/transformed/jetified-lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b2f1bdb186943b43891188ed5c675184/transformed/jetified-lifecycle-livedata-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/1d0fb9a1c4ca87c44bd04fad52ccde34/transformed/jetified-lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/f7c53eef5eae54b3fae83168dbf5bb30/transformed/jetified-lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87755ab56ac353a631c8968d9e1dd278/transformed/jetified-material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/676b646c0a5927d1b557264c33147d9d/transformed/jetified-material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/0f35193a4b27baa9f36d432989034cdd/transformed/jetified-ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8bd07853d5614ae946e1baea4ab5a9de/transformed/jetified-ui-test-manifest-1.7.5/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/69e35c52b92c343dba9525f38e40ab53/transformed/jetified-ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/6fc300c08c77a281d0926e7eb46919ab/transformed/jetified-material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/0e68d17e2b4c202eb7f8a696cb723234/transformed/jetified-foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5776f43c26337c4a3098c839a3465044/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2e577b03c73ad1e137a9710feceff996/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/cabf913f4b00a678c46d2c88ff8b9ed3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/72a377b8316949ebc2b5528ce9734a99/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b3e204aafec5daea554d9cc88d8c83d1/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9dc6dbacdac389ab40ba8287b8cb999f/transformed/jetified-graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8087723a8791ad3eea472a353aae5060/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/1a677bcf64f715711aa1a35f637123fb/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5c49eee27dace76506d0324612facb6d/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/f1c0a92ec1b1efb213d3466637781b6a/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/10d2af6b00235b35bf41fe203722cfab/transformed/jetified-core-ktx-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/14aa6cad6215c4acd62ed027328910ac/transformed/jetified-room-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/24ef73a761afc12f4bd7975e334e8fb3/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/a3d61ca48aa138b44a996b51aa5e6291/transformed/jetified-runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.test.services:storage:1.5.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/434d1a371398837a3d27e4bb35c7a465/transformed/jetified-storage-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.7.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c9787fd93426a3dd6ca14742ac0b8a8b/transformed/monitor-1.7.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2f79052288934f5e13c3f8cf7473fd58/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/428f8df01ff132a362a734b60f97c0f9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/6b0e342e165fae21545a073261f8142b/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/38a5250700c129f6a5b55cb40f7f5cf4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/48398e86f08381a8bf9bba68743d2755/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2a9f2b659f4325bc1202ac4b733d3bb0/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9fe4729d728f3cf46a32bd301690b81e/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5e82ec8412401661922472deaac50662/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/f5d0dd973eb01aa1cc72100d9583b2a6/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/a0f9c6ea7e1ab86296d11f917f5f6a79/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/59455f68bc1d6a8505815a7e45972c4f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/ac19f47afa94b4fab89005d11b11fb7b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c47821199d7b148637664ad5cd75d110/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.52] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8d82d05599cd8aca71c6ee34882d6c7a/transformed/jetified-dagger-lint-aar-2.52/AndroidManifest.xml:16:1-19:12
+	package
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:4:5-46
+		INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:6:5-29:19
+INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:6:5-29:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8dec13ff98c731566e8cbe9ea3e29e3c/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8dec13ff98c731566e8cbe9ea3e29e3c/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/49aebacf971476c8c2f4af0aa878531c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/49aebacf971476c8c2f4af0aa878531c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8bd07853d5614ae946e1baea4ab5a9de/transformed/jetified-ui-test-manifest-1.7.5/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8bd07853d5614ae946e1baea4ab5a9de/transformed/jetified-ui-test-manifest-1.7.5/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/69e35c52b92c343dba9525f38e40ab53/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/69e35c52b92c343dba9525f38e40ab53/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/428f8df01ff132a362a734b60f97c0f9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/428f8df01ff132a362a734b60f97c0f9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/38a5250700c129f6a5b55cb40f7f5cf4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/38a5250700c129f6a5b55cb40f7f5cf4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:13:9-54
+	tools:targetApi
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:15:9-55
+	android:enableOnBackInvokedCallback
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:16:9-51
+	android:dataExtractionRules
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:9:9-65
+	android:name
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:7:9-38
+activity#com.syncoders.tmobileevaluation.MainActivity
+ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:18:9-28:20
+	android:label
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:21:13-45
+	android:exported
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:20:13-36
+	android:theme
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:22:13-59
+	android:name
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml
+MERGED from [:data] /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/data/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:data] /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/data/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:domain] /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:domain] /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:core] /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/core/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:core] /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/core/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-navigation-animation:0.32.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5293b2b0d2c0927506eed2f13214cae7/transformed/jetified-accompanist-navigation-animation-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-navigation-animation:0.32.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5293b2b0d2c0927506eed2f13214cae7/transformed/jetified-accompanist-navigation-animation-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.36.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9b53c8ce3b98d24d8fe69fe0bfc9ac12/transformed/jetified-accompanist-systemuicontroller-0.36.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.36.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9b53c8ce3b98d24d8fe69fe0bfc9ac12/transformed/jetified-accompanist-systemuicontroller-0.36.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8dec13ff98c731566e8cbe9ea3e29e3c/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8dec13ff98c731566e8cbe9ea3e29e3c/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/f18d5e17ae19e0f749e164aac31b7562/transformed/jetified-appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/f18d5e17ae19e0f749e164aac31b7562/transformed/jetified-appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/49aebacf971476c8c2f4af0aa878531c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/49aebacf971476c8c2f4af0aa878531c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/7a8636b10f35558299f88bc7a38dcfba/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/7a8636b10f35558299f88bc7a38dcfba/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/4e9fb9bcd3faf90d88acecc679ace978/transformed/jetified-hilt-navigation-compose-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/4e9fb9bcd3faf90d88acecc679ace978/transformed/jetified-hilt-navigation-compose-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/dfab7b2f549073f259ea68d3458f3ee7/transformed/jetified-hilt-navigation-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/dfab7b2f549073f259ea68d3458f3ee7/transformed/jetified-hilt-navigation-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/ac8446d1263cceba1defbd79ada09e26/transformed/navigation-common-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/ac8446d1263cceba1defbd79ada09e26/transformed/navigation-common-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5c15d525a9d5a9505706880857907ce4/transformed/navigation-runtime-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5c15d525a9d5a9505706880857907ce4/transformed/navigation-runtime-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/999bb10b6c36731c2a2a70b8ca943f26/transformed/navigation-common-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/999bb10b6c36731c2a2a70b8ca943f26/transformed/navigation-common-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/1cfb1aa93702937ccb2844d2f0925f0d/transformed/navigation-runtime-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/1cfb1aa93702937ccb2844d2f0925f0d/transformed/navigation-runtime-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b3a03d1ea1072cd115b57bba3bd89c5a/transformed/jetified-navigation-compose-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b3a03d1ea1072cd115b57bba3bd89c5a/transformed/jetified-navigation-compose-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.52] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b1c3823b0d64a0610b2b4b60ff787f86/transformed/jetified-hilt-android-2.52/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.52] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b1c3823b0d64a0610b2b4b60ff787f86/transformed/jetified-hilt-android-2.52/AndroidManifest.xml:18:3-42
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/319eedd91d5e5ecde474d13e6e72f41b/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/319eedd91d5e5ecde474d13e6e72f41b/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87c4d7108dc563bd2fd5c974cc2bdfe8/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87c4d7108dc563bd2fd5c974cc2bdfe8/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.3] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/ba91b2b6fd7285ea34f2e4256ceafbcd/transformed/jetified-activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/ba91b2b6fd7285ea34f2e4256ceafbcd/transformed/jetified-activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b8a48886122035000bfdefbf80edd36e/transformed/jetified-activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b8a48886122035000bfdefbf80edd36e/transformed/jetified-activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9773426b9fddcbfeb29b9686c5de71d2/transformed/jetified-material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9773426b9fddcbfeb29b9686c5de71d2/transformed/jetified-material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c4b3fa5fadc2e6e553853bc2c6ec89e0/transformed/jetified-activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c4b3fa5fadc2e6e553853bc2c6ec89e0/transformed/jetified-activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3aacd0b853eb62ef70a8be2579b5908c/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3aacd0b853eb62ef70a8be2579b5908c/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c82800535f70834d59c5883bd549d282/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c82800535f70834d59c5883bd549d282/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/6229dc502a86156d17908e8615390f93/transformed/jetified-animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/6229dc502a86156d17908e8615390f93/transformed/jetified-animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/0cebe43881b9a7bd4b03eafa797d1ef6/transformed/jetified-material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/0cebe43881b9a7bd4b03eafa797d1ef6/transformed/jetified-material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/0243057d513fd2db7e3042a2c5544c62/transformed/jetified-animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/0243057d513fd2db7e3042a2c5544c62/transformed/jetified-animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5d962547afb529549000afda020e65b3/transformed/jetified-foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5d962547afb529549000afda020e65b3/transformed/jetified-foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2277d9b15787958c65f890495a957829/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2277d9b15787958c65f890495a957829/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5fa70f5fad6d5f539b4ef5f9f304f66e/transformed/jetified-ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5fa70f5fad6d5f539b4ef5f9f304f66e/transformed/jetified-ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5aa9f14880d778c8d391afefc285db24/transformed/jetified-ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5aa9f14880d778c8d391afefc285db24/transformed/jetified-ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/070900b0aa9da18add2193b53046c972/transformed/jetified-ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/070900b0aa9da18add2193b53046c972/transformed/jetified-ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9a68c8b4f878fcabc6b662166e4882c3/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9a68c8b4f878fcabc6b662166e4882c3/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5cfa5ece2c718963fefe47ae6d7ab916/transformed/jetified-ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5cfa5ece2c718963fefe47ae6d7ab916/transformed/jetified-ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/01462a447f57d73772c7e1c40183c59c/transformed/jetified-ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/01462a447f57d73772c7e1c40183c59c/transformed/jetified-ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/58e25246ce32a020a06c0d8e1379d883/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/58e25246ce32a020a06c0d8e1379d883/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/4cb8df8795d8b1a0795e3c8259925251/transformed/jetified-lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/4cb8df8795d8b1a0795e3c8259925251/transformed/jetified-lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c50e8697b039ca90cf81ec0c44bc4d28/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c50e8697b039ca90cf81ec0c44bc4d28/transformed/jetified-lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/ea695f489a33b1a2c404e6ecda0ee59f/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/ea695f489a33b1a2c404e6ecda0ee59f/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/a1a12d04b3d5d0702cf230e0b94226d5/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/a1a12d04b3d5d0702cf230e0b94226d5/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3998c09462d9b89f3181a2460d5f77a3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3998c09462d9b89f3181a2460d5f77a3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2f0be9187367ec399535b1ba5d239e50/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2f0be9187367ec399535b1ba5d239e50/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/17d5fd3318004670b5c0261ebce3640b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/17d5fd3318004670b5c0261ebce3640b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3e45d1f5d0d2ee31b38de8ed646d7de9/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3e45d1f5d0d2ee31b38de8ed646d7de9/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9290742298daa7857500d34eff6d1c06/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9290742298daa7857500d34eff6d1c06/transformed/jetified-lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/fd54f0ff6ff3f87de923cedcb775a0a7/transformed/jetified-lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/fd54f0ff6ff3f87de923cedcb775a0a7/transformed/jetified-lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5728adc44204616586637ca57b9db4b1/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5728adc44204616586637ca57b9db4b1/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5389b6ea32036bb5187f3c061013a3a5/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5389b6ea32036bb5187f3c061013a3a5/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3bfe2b4bef51a3ad74e49055e0374479/transformed/jetified-lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3bfe2b4bef51a3ad74e49055e0374479/transformed/jetified-lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b2f1bdb186943b43891188ed5c675184/transformed/jetified-lifecycle-livedata-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b2f1bdb186943b43891188ed5c675184/transformed/jetified-lifecycle-livedata-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/1d0fb9a1c4ca87c44bd04fad52ccde34/transformed/jetified-lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/1d0fb9a1c4ca87c44bd04fad52ccde34/transformed/jetified-lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/f7c53eef5eae54b3fae83168dbf5bb30/transformed/jetified-lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/f7c53eef5eae54b3fae83168dbf5bb30/transformed/jetified-lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87755ab56ac353a631c8968d9e1dd278/transformed/jetified-material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87755ab56ac353a631c8968d9e1dd278/transformed/jetified-material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/676b646c0a5927d1b557264c33147d9d/transformed/jetified-material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/676b646c0a5927d1b557264c33147d9d/transformed/jetified-material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/0f35193a4b27baa9f36d432989034cdd/transformed/jetified-ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/0f35193a4b27baa9f36d432989034cdd/transformed/jetified-ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8bd07853d5614ae946e1baea4ab5a9de/transformed/jetified-ui-test-manifest-1.7.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8bd07853d5614ae946e1baea4ab5a9de/transformed/jetified-ui-test-manifest-1.7.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/69e35c52b92c343dba9525f38e40ab53/transformed/jetified-ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/69e35c52b92c343dba9525f38e40ab53/transformed/jetified-ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/6fc300c08c77a281d0926e7eb46919ab/transformed/jetified-material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/6fc300c08c77a281d0926e7eb46919ab/transformed/jetified-material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/0e68d17e2b4c202eb7f8a696cb723234/transformed/jetified-foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/0e68d17e2b4c202eb7f8a696cb723234/transformed/jetified-foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5776f43c26337c4a3098c839a3465044/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5776f43c26337c4a3098c839a3465044/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2e577b03c73ad1e137a9710feceff996/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2e577b03c73ad1e137a9710feceff996/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/cabf913f4b00a678c46d2c88ff8b9ed3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/cabf913f4b00a678c46d2c88ff8b9ed3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/72a377b8316949ebc2b5528ce9734a99/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/72a377b8316949ebc2b5528ce9734a99/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b3e204aafec5daea554d9cc88d8c83d1/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/b3e204aafec5daea554d9cc88d8c83d1/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9dc6dbacdac389ab40ba8287b8cb999f/transformed/jetified-graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9dc6dbacdac389ab40ba8287b8cb999f/transformed/jetified-graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8087723a8791ad3eea472a353aae5060/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8087723a8791ad3eea472a353aae5060/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/1a677bcf64f715711aa1a35f637123fb/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/1a677bcf64f715711aa1a35f637123fb/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5c49eee27dace76506d0324612facb6d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5c49eee27dace76506d0324612facb6d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/f1c0a92ec1b1efb213d3466637781b6a/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/f1c0a92ec1b1efb213d3466637781b6a/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/10d2af6b00235b35bf41fe203722cfab/transformed/jetified-core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/10d2af6b00235b35bf41fe203722cfab/transformed/jetified-core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/14aa6cad6215c4acd62ed027328910ac/transformed/jetified-room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/14aa6cad6215c4acd62ed027328910ac/transformed/jetified-room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/24ef73a761afc12f4bd7975e334e8fb3/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/24ef73a761afc12f4bd7975e334e8fb3/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/a3d61ca48aa138b44a996b51aa5e6291/transformed/jetified-runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/a3d61ca48aa138b44a996b51aa5e6291/transformed/jetified-runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.test.services:storage:1.5.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/434d1a371398837a3d27e4bb35c7a465/transformed/jetified-storage-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.5.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/434d1a371398837a3d27e4bb35c7a465/transformed/jetified-storage-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.7.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c9787fd93426a3dd6ca14742ac0b8a8b/transformed/monitor-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.7.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c9787fd93426a3dd6ca14742ac0b8a8b/transformed/monitor-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2f79052288934f5e13c3f8cf7473fd58/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2f79052288934f5e13c3f8cf7473fd58/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/428f8df01ff132a362a734b60f97c0f9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/428f8df01ff132a362a734b60f97c0f9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/6b0e342e165fae21545a073261f8142b/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/6b0e342e165fae21545a073261f8142b/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/38a5250700c129f6a5b55cb40f7f5cf4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/38a5250700c129f6a5b55cb40f7f5cf4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/48398e86f08381a8bf9bba68743d2755/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/48398e86f08381a8bf9bba68743d2755/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2a9f2b659f4325bc1202ac4b733d3bb0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/2a9f2b659f4325bc1202ac4b733d3bb0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9fe4729d728f3cf46a32bd301690b81e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/9fe4729d728f3cf46a32bd301690b81e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5e82ec8412401661922472deaac50662/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/5e82ec8412401661922472deaac50662/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/f5d0dd973eb01aa1cc72100d9583b2a6/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/f5d0dd973eb01aa1cc72100d9583b2a6/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/a0f9c6ea7e1ab86296d11f917f5f6a79/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/a0f9c6ea7e1ab86296d11f917f5f6a79/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/59455f68bc1d6a8505815a7e45972c4f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/59455f68bc1d6a8505815a7e45972c4f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/ac19f47afa94b4fab89005d11b11fb7b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/ac19f47afa94b4fab89005d11b11fb7b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c47821199d7b148637664ad5cd75d110/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/c47821199d7b148637664ad5cd75d110/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.52] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8d82d05599cd8aca71c6ee34882d6c7a/transformed/jetified-dagger-lint-aar-2.52/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.52] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8d82d05599cd8aca71c6ee34882d6c7a/transformed/jetified-dagger-lint-aar-2.52/AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/428f8df01ff132a362a734b60f97c0f9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/428f8df01ff132a362a734b60f97c0f9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8bd07853d5614ae946e1baea4ab5a9de/transformed/jetified-ui-test-manifest-1.7.5/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8bd07853d5614ae946e1baea4ab5a9de/transformed/jetified-ui-test-manifest-1.7.5/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8bd07853d5614ae946e1baea4ab5a9de/transformed/jetified-ui-test-manifest-1.7.5/AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/69e35c52b92c343dba9525f38e40ab53/transformed/jetified-ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/69e35c52b92c343dba9525f38e40ab53/transformed/jetified-ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/69e35c52b92c343dba9525f38e40ab53/transformed/jetified-ui-tooling-release/AndroidManifest.xml:24:13-71
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+permission#com.syncoders.tmobileevaluation.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-permission#com.syncoders.tmobileevaluation.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

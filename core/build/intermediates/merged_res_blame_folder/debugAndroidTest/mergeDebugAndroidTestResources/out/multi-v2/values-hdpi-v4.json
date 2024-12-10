@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.syncoders.core.test.core-mergeDebugAndroidTestResources-1:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/4634c247d6497c3a10160ef790735537/transformed/appcompat-1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

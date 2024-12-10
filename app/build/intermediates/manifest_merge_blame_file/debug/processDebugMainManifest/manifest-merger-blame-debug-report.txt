@@ -1,0 +1,160 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.syncoders.tmobileevaluation"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10
+11    <permission
+11-->[androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+12        android:name="com.syncoders.tmobileevaluation.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.syncoders.tmobileevaluation.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:6:5-29:19
+18        android:name="com.syncoders.tmobileevaluation.MyApplication"
+18-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:7:9-38
+19        android:allowBackup="true"
+19-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:8:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.15.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/55dd87b47ad126262ddbdc4d2667b7e7/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+21        android:dataExtractionRules="@xml/data_extraction_rules"
+21-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:9:9-65
+22        android:debuggable="true"
+23        android:enableOnBackInvokedCallback="true"
+23-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:16:9-51
+24        android:extractNativeLibs="false"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:10:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:11:9-43
+27        android:label="@string/app_name"
+27-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:12:9-41
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:13:9-54
+29        android:supportsRtl="true"
+29-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:14:9-35
+30        android:testOnly="true"
+31        android:theme="@style/Theme.TMobileEvaluation" >
+31-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:15:9-55
+32        <activity
+32-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:18:9-28:20
+33            android:name="com.syncoders.tmobileevaluation.MainActivity"
+33-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:19:13-41
+34            android:exported="true"
+34-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:20:13-36
+35            android:label="@string/app_name"
+35-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:21:13-45
+36            android:theme="@style/Theme.TMobileEvaluation" >
+36-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:22:13-59
+37            <intent-filter>
+37-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:23:13-27:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:24:17-69
+38-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:24:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:26:17-77
+40-->/Users/ayan/AndroidStudioProjects/Practice/TMobileEvaluation/app/src/main/AndroidManifest.xml:26:27-74
+41            </intent-filter>
+42        </activity>
+43
+44        <provider
+44-->[androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+45            android:name="androidx.startup.InitializationProvider"
+45-->[androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
+46            android:authorities="com.syncoders.tmobileevaluation.androidx-startup"
+46-->[androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
+47            android:exported="false" >
+47-->[androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
+48            <meta-data
+48-->[androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+49-->[androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+50                android:value="androidx.startup" />
+50-->[androidx.emoji2:emoji2:1.3.0] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/88bb2a7d071975d47a438904deaec5a8/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+51            <meta-data
+51-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+52-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+53                android:value="androidx.startup" />
+53-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/87638420da9f0b50481252536a2e49de/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+54            <meta-data
+54-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+55                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+55-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+56                android:value="androidx.startup" />
+56-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+57        </provider>
+58
+59        <activity
+59-->[androidx.compose.ui:ui-test-manifest:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8bd07853d5614ae946e1baea4ab5a9de/transformed/jetified-ui-test-manifest-1.7.5/AndroidManifest.xml:23:9-25:39
+60            android:name="androidx.activity.ComponentActivity"
+60-->[androidx.compose.ui:ui-test-manifest:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8bd07853d5614ae946e1baea4ab5a9de/transformed/jetified-ui-test-manifest-1.7.5/AndroidManifest.xml:24:13-63
+61            android:exported="true" />
+61-->[androidx.compose.ui:ui-test-manifest:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/8bd07853d5614ae946e1baea4ab5a9de/transformed/jetified-ui-test-manifest-1.7.5/AndroidManifest.xml:25:13-36
+62        <activity
+62-->[androidx.compose.ui:ui-tooling-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/69e35c52b92c343dba9525f38e40ab53/transformed/jetified-ui-tooling-release/AndroidManifest.xml:23:9-25:39
+63            android:name="androidx.compose.ui.tooling.PreviewActivity"
+63-->[androidx.compose.ui:ui-tooling-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/69e35c52b92c343dba9525f38e40ab53/transformed/jetified-ui-tooling-release/AndroidManifest.xml:24:13-71
+64            android:exported="true" />
+64-->[androidx.compose.ui:ui-tooling-android:1.7.5] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/69e35c52b92c343dba9525f38e40ab53/transformed/jetified-ui-tooling-release/AndroidManifest.xml:25:13-36
+65
+66        <service
+66-->[androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+67            android:name="androidx.room.MultiInstanceInvalidationService"
+67-->[androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+68            android:directBootAware="true"
+68-->[androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+69            android:exported="false" />
+69-->[androidx.room:room-runtime:2.6.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/3fcf2c8e11010e9b5f2deb4ad8b3a200/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+70
+71        <receiver
+71-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+72            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+72-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+73            android:directBootAware="false"
+73-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+74            android:enabled="true"
+74-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+75            android:exported="true"
+75-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+76            android:permission="android.permission.DUMP" >
+76-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+77            <intent-filter>
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+78                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+78-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+78-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+79            </intent-filter>
+80            <intent-filter>
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+81                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+82            </intent-filter>
+83            <intent-filter>
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+84                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+85            </intent-filter>
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+87                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/ayan/Downloads/Heritage/gradle/caches/8.9/transforms/80038593b9d17826dab943d079bf5188/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+88            </intent-filter>
+89        </receiver>
+90    </application>
+91
+92</manifest>

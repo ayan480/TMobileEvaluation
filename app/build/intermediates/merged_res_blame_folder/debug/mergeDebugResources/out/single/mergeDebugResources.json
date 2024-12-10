@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_airplane.png.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/airplane.png"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_baseline_menu_24.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_baseline_calendar_month_24.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_baseline_account_circle_24.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_ic_home.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_ic_settings.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_car.png.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/car.png"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_baseline_camera_alt_24.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_facebook.png.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/facebook.png"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_google.png.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/google.png"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_globe_image.png.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/globe_image.png"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_ic_search.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/xml_backup_rules.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_bus.png.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/bus.png"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_baseline_location_on_24.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/baseline_location_on_24.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_ic_account.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/ic_account.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_baseline_person_2_24.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/baseline_person_2_24.xml"
+    },
+    {
+        "merged": "com.syncoders.tmobileevaluation.app-debug-4:/drawable_ic_notification.xml.flat",
+        "source": "com.syncoders.tmobileevaluation.app-main-6:/drawable/ic_notification.xml"
+    }
+]
